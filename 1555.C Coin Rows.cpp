@@ -46,10 +46,10 @@ int32_t main()
     cin >> t;
     while(t--)
     {
-        int n;
+        ll n;
         cin >> n;
-        ll a[2][n],y=0,sol=1e18,x=0;)
-        for(int i=0;i<2;i++)
+        ll a[2][n],y=0,sol=1e18,x=0;
+        for(ll i=0;i<2;i++)
         
         {
             for(ll j=0;j<n;j++)
